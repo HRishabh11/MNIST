@@ -15,5 +15,5 @@ The GUI is made using tkinter, opencv and PIL. So, to run the script these must 
 
 The GUI looks like this:
 
-![](https://github.com/HRishabh11/MNIST/blob/master/img1.png)
-![](https://github.com/HRishabh11/MNIST/blob/master/img2.png)
+![](https://github.com/HRishabh11/MNIST/blob/master/img1.PNG)
+![](https://github.com/HRishabh11/MNIST/blob/master/img2.PNG)
