@@ -1,0 +1,1 @@
+This is a basic experiment to classify handwritten digits of the MNIST dataset using an Artificial Neural Network. I have used 2 hidden layers with 100 nodes each. The batch size used for training is 10 and the epochs is 100. 
